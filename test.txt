@@ -2,7 +2,7 @@ I am file :( :( :( :(((
 ro 1 Heello im Master ,,, hello im local branch 
 ro 2 hello from 1st project and CLONE
 asd3 ,,,  local from clone project
-34
+34 ================================ timie for test
 a5 ---- loca loca
 
 
