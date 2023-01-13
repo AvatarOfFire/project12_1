@@ -3,6 +3,6 @@ ro 1 Heello im Master ,,, hello im local branch
 ro 2
 asd3 ,,,  local from clone project
 34
-a5
+a5 ---- loca loca
 
 
