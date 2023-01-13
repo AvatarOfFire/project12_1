@@ -1,6 +1,6 @@
 I am file :( :( :( :(((
 ro 1 Heello im Master ,,, hello im local branch 
-ro 2
+ro 2 hello from CLONE
 asd3 ,,,  local from clone project
 34
 a5 ---- loca loca
